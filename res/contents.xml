@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<part id="1">
+	<screen id="1">
+		<backgroundColor>#FCFAF7</backgroundColor>
+		<image>
+			<filename>kukai.gif</filename>
+			<width>130</width>
+			<height>246</height>
+		</image>
+		<title lang="en">Kūkai</title>		
+		<text lang="en">Kūkai is one of the most beloved japanese saints. Posthumously named Kōbō Daishi (The Great Teacher), the Shikoku Pilgrimage is attributed to him.&lt;br/&gt; &lt;br/&gt;He is the founder of Shingon Buddhism, from the Vajrayana school (the same kind of Buddhism you can find in Tibet). He is known for bringing Buddhsim to the masses, when only the elite could practice.&lt;br/&gt; &lt;br/&gt;It is said that he created the japanese kana alphabet, wrote one of the first japanese dictionary and founded hundreds of temple across the country.&lt;br/&gt; &lt;br/&gt;He's name means "Sky" (Kū) and "Sea" (Kai) as it is the only two things he could see from the cave where he attained the enlightenment.</text>
+	</screen>
+	<screen id="2">
+		<backgroundColor>#FFFFFF</backgroundColor>
+		<image>
+			<filename>shikoku.png</filename>
+			<width>273</width>
+			<height>341</height>
+		</image>
+		<title lang="en">Shikoku</title>		
+		<text lang="en">Shikoku is the island where the 88 temples are. It means "Four Countries" as it is composed of four prefectures.&lt;br/&gt; &lt;br/&gt;The pilgrimage is usually done clockwise, going from Tokushima (starting at temple #1), to Kochi, then Ehime, and finally Kagawa (stoping at temple #88).&lt;br/&gt; &lt;br/&gt;But because the pilgrimage goes around the island you can start where you want. You should just go back to your starting point when you finished.&lt;br/&gt; &lt;br/&gt;Some people go on foot, but you can use public transport, go by car or even a mix of the above. There is no absolute rule.</text>
+	</screen>
+	<screen id="3">
+		<backgroundColor>#8BA47D</backgroundColor>
+		<image>
+			<filename>ohenrosan.jpg</filename>
+			<width>199</width>
+			<height>261</height>
+		</image>
+		<title lang="en">Who ?</title>
+		<text lang="en">Anyone can do the pilgrimage, you don't have to be Buddhist. You don't even have to be a believer at all.&lt;br/&gt; &lt;br/&gt;Thousands of people do the pilgrimage every year. You can find young people trying to know themselves better. Some try to understand the meaning of faith. Some others are on a healing journey and pray for health or for their loved ones.&lt;br/&gt; &lt;br/&gt;You can do the pilgrimage for tourism purposes. You can also take it as a challenge. If you are interested in Japan's culture and history that might also be a great chance.</text>
+	</screen>
+	<screen id="4">
+		<backgroundColor>#DED3BF</backgroundColor>
+		<image>
+			<filename>osettai.jpg</filename>
+			<width>250</width>
+			<height>188</height>
+		</image>
+		<title lang="en">Other people</title>
+		<text lang="en">The Pilgrimage is really well seen and is a great chance to meet other people.&lt;br/&gt; &lt;br/&gt;Pilgrims can receive gifts on the way. It can be food, money, or a place to rest for the night. Some people are dedicated to helping the pilgrims.&lt;br/&gt; &lt;br/&gt;This is a really important custom called "Osettai" and the pilgrim must not decline. In exchange he or she gives a name slip called "Osamefuda".&lt;br/&gt; &lt;br/&gt;This is because helping the pilgrims is also rewarding. As they would do the pilgrimage for the people that supported them too. The name slip stands as a proof of this support.</text>
+	</screen>
+	<screen id="5">
+		<backgroundColor>#63B8FB</backgroundColor>
+		<image>
+			<filename>buddha.jpg</filename>
+			<width>275</width>
+			<height>276</height>
+		</image>
+		<title lang="en">Buddhism</title>
+		<text lang="en">You don't need to be Buddhist to undertake the pilgrimage. However there are five simple rules one should respect during the journey.&lt;br/&gt; &lt;br/&gt;The rules state to avoid taking the life of beings, to avoid taking things that are not given, to avoid sensual misconduct, to refrain from false speech and finally to abstain from substances that could harm the body or mind.&lt;br/&gt; &lt;br/&gt;These rules might sound as common sense, but that is what Buddhism is often about. They are a bit deeper than they seem, but following this five main rules is a good guideline.</text>
+	</screen>
+	<screen id="6">
+		<question lang="en">What does Kuukai mean ?</question>
+		<answer id="1" lang="en">Great Teacher</answer>
+		<explanation id="1" lang="en">"Kobo Daishi" means Great Teacher</explanation>
+		<answer id="2" lang="en">Diamond Vehicle</answer>
+		<explanation id="2" lang="en">"Vajrayana", the school of Buddhism Kuukai belongs to, means Diamond Vehicle of the Buddhism. Did you know ?</explanation>
+		<answer id="3" lang="en">Sky and Sea</answer>
+		<explanation id="3" lang="en">Kuu is written with the Kanji meaning Sky, and Kai is written with the Kanji meaning Sea, that is the name he chose for himself while meditating in a cave in front of the Sky and Sea.</explanation>
+	</screen>
+	<screen id="7">
+		<question lang="en">Where do you have to start the Pilgrimage ?</question>
+		<answer id="1" lang="en">At Ryouzenji, temple #1 in Tokushima prefecture</answer>
+		<explanation id="1" lang="en">A lot of people prefer to start at temple #1. It is also the best place to buy equipment. But it is not mendatory.</explanation>
+		<answer id="2" lang="en">At Mt. Kouya, near Osaka, before entering Shikoku island</answer>
+		<explanation id="2" lang="en">Mt. Kouya is the headquarter of Shingon Buddhism. Some people go there to see Kobo Daishi's mausoleum before or after the journey. But this is not mendatory either.</explanation>
+		<answer id="3" lang="en">Anywhere you want</answer>
+		<explanation id="3" lang="en">You can indeed start where you want, and do the pilgrimage clockwise or reverse-clockwise. You can also do one prefecture at a time if you so wish.</explanation>
+	</screen>
+	<screen id="8">
+		<question lang="en">What requirement do you need to start the Pilgrimage ?</question>
+		<answer id="1" lang="en">Be a Buddhist</answer>
+		<explanation id="1" lang="en">You don't have to be a Buddhst to start the Pilgrimage.</explanation>
+		<answer id="2" lang="en">Follow at least some Buddhism rules</answer>
+		<explanation id="2" lang="en">Those rules state to behave yourself correctly. For exemple you shoudln't kill, steal or lie during the Pilgrimage.</explanation>
+		<answer id="3" lang="en">You don't need any requirements</answer>
+		<explanation id="3" lang="en">As this is true you should at least follow simple Buddhism rules, at least inside of the temples..</explanation>
+	</screen>
+</part>
+<part id="2">
+	<screen id="1">
+		<image>
+			<filename>shop1rs.jpg</filename>
+		</image>
+		<item id="2" obj="byakue">
+			<x>440</x>
+			<y>200</y>
+		</item>
+		<item id="3" obj="sugegasa">
+			<x>0</x>
+			<y>0</y>
+		</item>
+		<item id="4" obj="">
+			<x>100</x>
+			<y>100</y>
+		</item>
+	</screen>
+	<explanation id="1" obj="introduction" lang="en">
+		<text lang="en">Equipment is an important part of the O-Henro Pilgrimage. As many things in O-Henro, nothing is mendatory but some of the clothing is a mark of respect and you might lose some of the pilgrimage's meaning without some accessories.&lt;br/&gt; &lt;br/&gt;You are as a pilgrim, O-Henro-San (literally "The one who does O-Henro"), and here you can find everything you need to do the pilgrimage by the book. Click on an item to collect it, I will come back and explain to you what it is and what it means.</text>
+	</explanation>
+	<explanation id="2" obj="byakue" lang="en">
+		<text lang="en">The byakue (白衣) is a white shirt worn by the pilgrims over their cloths.&lt;br/&gt; &lt;br/&gt;This cloth stands as a funeral shroud, as the white is the color of death in Japan. This is because the journey could be deadly in many cases several hundreds of years ago. Therefore, if the worst was to happen, the pilgrim was already wearing the correct clothing for his or her funeral.&lt;br/&gt; &lt;br/&gt;Another less pragmatical explanation is that you are reborn during the pilgrimage. So before leaving you should dress your former "yourself" in white.&lt;br/&gt; &lt;br/&gt;The byakue also helps you being seen easily if you were to walk on the road. You will also be easily recognized : everyone will understand at once what you are doing. Some might come to you with small gifts, "Osettai", and you can easily get help. O-Henro-San are very welcomed when they go through a city.</text>
+		<image>
+			<filename>hakui.jpg</filename>
+			<width>300</width>
+			<height>330</height>
+		</image>
+	</explanation>
+	<explanation id="3" obj="sugegasa" lang="en">
+		<text lang="en">The sugegasa (菅笠) is a conical hat that is meant to protect from the rain and the heat. It is a traditional japanese hat and is the best way of distinguishing a pilgrim from far away. If you find this to be uncomfortable you can wear a cap instead, this is just the traditional way.&lt;br/&gt; &lt;br/&gt;The sugegasa symbolizes a coffin. This is because the journey could be very dangerous several years ago. The sugegasa could be used to cover the face of a fellow pilgrim if he or she has passed away.</text>
+		<image>
+			<filename>sugegasa.gif</filename>
+			<width>310</width>
+			<height>251</height>
+		</image>
+	</explanation>
+	<explanation id="4" obj="wagesa" lang="en">
+		<text lang="en">The wagesa (輪袈裟) is a cloth worn around the neck and is a really important part of O-Henro-San's equipment. Wearing it is a form of respect. It is symbolic of the full Buddhist robe. However for conveniance you do not have to wear the complete robe.</text>
+		<image>
+			<filename>wakesa.gif</filename>
+			<width>191</width>
+			<height>400</height>
+		</image>
+	</explanation>
+</part>
+</root>
